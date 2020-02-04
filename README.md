@@ -4,6 +4,10 @@
 
 Why is the number of operators per shift multiplied by approximately 4.5 to obtain the total number of operators to run the plant?
 
+In a plant, we assume that an operator would work 5 days a week and have 3 weeks off a week. This means that he works 49 weeks a year. The calculations below show how we were able to determine the 4.5 operators/year.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{365(days/year).3(shifts/day)}{49(weeks/operator).5(shift/week)}&space;=&space;4.5&space;operators/year" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{365(days/year).3(shifts/day)}{49(weeks/operator).5(shift/week)}&space;=&space;4.5&space;operators/year" title="\frac{365(days/year).3(shifts/day)}{49(weeks/operator).5(shift/week)} = 4.5 operators/year" /></a>
+
 ## Problem 2 (8.5) Cost of Cooling Water
 
 Cooling water is priced on an energy basis: $/GJ. The temperature rise is usually assumed to be 10C. Does the cooling water cost change if the return temperature changes? Are there any limitations to the return temperature? Explain.
